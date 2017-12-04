@@ -1,0 +1,7 @@
+﻿配置描述
+int	string	float	int[]	bool	Vector2	Vector3	Vector2[]	Vector3[]	string[]
+id	名字	test							
+id	name	TestNum	IntArray	TestBool	TestV2	TestV3	Vector2Array	Vector3Array	StringArray
+0	sss1515的法1515151515	22.1	55,22,10	FALSE	1,2	1,2,3	[1,2][3,4][5,6]	[1,2,3][4,5,6][7,8,9]	sahduwhdu<Str:END>sadjiajdi<Str:END>sadjdoyeyeyyyyyy<Str:END>
+1	tttt15速度5是5说的1	23.2	15,48,65	TRUE	3,4	4,5,6	[1,20][3,40][5,60]	[10,20,30][40,50,60][70,80,90]	
+2	pppp	5555							tttttttttt<Str:END>adsidniasdj,.,.<Str:END>384728,sfl;d,fl<Str:END><Str:END>

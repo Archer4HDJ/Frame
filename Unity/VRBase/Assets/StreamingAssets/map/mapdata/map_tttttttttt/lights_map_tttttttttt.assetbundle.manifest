@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2125861934
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33c93c4a16f4f620d551c3ee9aa28ca0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b0ca113bf3ea9f1fd08eb7209890aa0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Map/MapData/Map_tttttttttt/Lights_Map_tttttttttt.prefab
+Dependencies: []

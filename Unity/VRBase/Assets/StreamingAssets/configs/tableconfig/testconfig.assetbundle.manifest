@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 227825848
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 827307010f539a6a98b44d2b9dcca4a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Configs/TableConfig/TestConfig.txt
+Dependencies: []

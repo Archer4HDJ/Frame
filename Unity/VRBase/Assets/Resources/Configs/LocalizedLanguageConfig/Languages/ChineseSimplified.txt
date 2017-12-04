@@ -1,0 +1,1 @@
+[{"Key":"key0","Value":""},{"Key":"key1","Value":""},{"Key":"key2","Value":""},{"Key":"key3","Value":""},{"Key":"key4","Value":""},{"Key":"key5","Value":""},{"Key":"ChineseSimplified","Value":"简体中文"}]

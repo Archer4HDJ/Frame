@@ -1,0 +1,172 @@
+ManifestFileVersion: 0
+CRC: 2947102539
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: audios/interaction_hatch_close.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: audios/music.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: audios/music1.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: configs/functionsettingconfig/worldsettingconfig.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: configs/internalconfigs/globalgamesettingsiconfig.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: configs/internalconfigs/test1.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: configs/internalconfigs/test11.assetbundle
+      Dependencies: {}
+    Info_7:
+      Name: configs/localizedlanguageconfig/languages/chinesesimplified.assetbundle
+      Dependencies: {}
+    Info_8:
+      Name: configs/localizedlanguageconfig/languagekeys.assetbundle
+      Dependencies: {}
+    Info_9:
+      Name: configs/localizedlanguageconfig/languagetypenames.assetbundle
+      Dependencies: {}
+    Info_10:
+      Name: configs/tableconfig/flyobjectdataconfig.assetbundle
+      Dependencies: {}
+    Info_11:
+      Name: configs/tableconfig/skilldataconfig.assetbundle
+      Dependencies: {}
+    Info_12:
+      Name: configs/tableconfig/testconfig.assetbundle
+      Dependencies: {}
+    Info_13:
+      Name: gamesetingconfigs/assetbundlesettingdata.assetbundle
+      Dependencies: {}
+    Info_14:
+      Name: logicobjects/map/tttts.assetbundle
+      Dependencies: {}
+    Info_15:
+      Name: logicobjects/settingdata/logicsystem4ecsdata.assetbundle
+      Dependencies: {}
+    Info_16:
+      Name: map/mapdata/map_ssssss/lightmap/lightmapcolor_map_ssssss_0.assetbundle
+      Dependencies: {}
+    Info_17:
+      Name: map/mapdata/map_ssssss/lightmap/lightmapdir_map_ssssss_0.assetbundle
+      Dependencies: {}
+    Info_18:
+      Name: map/mapdata/map_ssssss/lightmap/lightmap_map_ssssss.assetbundle
+      Dependencies: {}
+    Info_19:
+      Name: map/mapdata/map_ssssss/lightmap/reflectionprobe-0_map_ssssss_0.assetbundle
+      Dependencies: {}
+    Info_20:
+      Name: map/mapdata/map_ssssss/colliders_map_ssssss.assetbundle
+      Dependencies: {}
+    Info_21:
+      Name: map/mapdata/map_ssssss/lights_map_ssssss.assetbundle
+      Dependencies: {}
+    Info_22:
+      Name: map/mapdata/map_ssssss/map_ssssss.assetbundle
+      Dependencies: {}
+    Info_23:
+      Name: map/mapdata/map_tttttttttt/lightmap/lightmapcolor_map_tttttttttt_0.assetbundle
+      Dependencies: {}
+    Info_24:
+      Name: map/mapdata/map_tttttttttt/lightmap/lightmapdir_map_tttttttttt_0.assetbundle
+      Dependencies: {}
+    Info_25:
+      Name: map/mapdata/map_tttttttttt/lightmap/lightmap_map_tttttttttt.assetbundle
+      Dependencies: {}
+    Info_26:
+      Name: map/mapdata/map_tttttttttt/lightmap/reflectionprobe-0_map_tttttttttt_0.assetbundle
+      Dependencies: {}
+    Info_27:
+      Name: map/mapdata/map_tttttttttt/lights_map_tttttttttt.assetbundle
+      Dependencies: {}
+    Info_28:
+      Name: map/mapdata/map_tttttttttt/map_tttttttttt.assetbundle
+      Dependencies: {}
+    Info_29:
+      Name: map/mapdata/mapinfomation.assetbundle
+      Dependencies: {}
+    Info_30:
+      Name: materials/122233.assetbundle
+      Dependencies: {}
+    Info_31:
+      Name: materials/new material1.assetbundle
+      Dependencies: {}
+    Info_32:
+      Name: materials/new material2.assetbundle
+      Dependencies: {}
+    Info_33:
+      Name: materials/new material3.assetbundle
+      Dependencies: {}
+    Info_34:
+      Name: materials/new material4.assetbundle
+      Dependencies: {}
+    Info_35:
+      Name: materials/new material5.assetbundle
+      Dependencies: {}
+    Info_36:
+      Name: materials/square.assetbundle
+      Dependencies: {}
+    Info_37:
+      Name: others/assetssort/layerstagsdata.assetbundle
+      Dependencies: {}
+    Info_38:
+      Name: prefabs/maps/capsule 1.assetbundle
+      Dependencies:
+        Dependency_0: materials/new material1.assetbundle
+    Info_39:
+      Name: prefabs/maps/capsule 2123.assetbundle
+      Dependencies:
+        Dependency_0: materials/new material1.assetbundle
+    Info_40:
+      Name: prefabs/maps/capsule.assetbundle
+      Dependencies:
+        Dependency_0: materials/new material1.assetbundle
+    Info_41:
+      Name: prefabs/maps/cube 1.assetbundle
+      Dependencies:
+        Dependency_0: materials/new material1.assetbundle
+    Info_42:
+      Name: prefabs/maps/cube 2.assetbundle
+      Dependencies:
+        Dependency_0: materials/new material1.assetbundle
+    Info_43:
+      Name: prefabs/maps/cube.assetbundle
+      Dependencies:
+        Dependency_0: materials/new material1.assetbundle
+    Info_44:
+      Name: prefabs/maps/new material.assetbundle
+      Dependencies: {}
+    Info_45:
+      Name: prefabs/maps/plan.assetbundle
+      Dependencies:
+        Dependency_0: materials/new material2.assetbundle
+    Info_46:
+      Name: prefabs/maps/plane_diban.assetbundle
+      Dependencies: {}
+    Info_47:
+      Name: prefabs/maps/player.assetbundle
+      Dependencies: {}
+    Info_48:
+      Name: prefabs/maps/sphere.assetbundle
+      Dependencies:
+        Dependency_0: materials/new material1.assetbundle
+        Dependency_1: materials/new material2.assetbundle
+    Info_49:
+      Name: prefabs/maps/terrain.assetbundle
+      Dependencies: {}
+    Info_50:
+      Name: canvas.assetbundle
+      Dependencies: {}
+    Info_51:
+      Name: dotweensettings.assetbundle
+      Dependencies: {}
+    Info_52:
+      Name: pathfile.assetbundle
+      Dependencies: {}

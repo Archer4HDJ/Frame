@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3907059286
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d4720538e7fcf6336305f642667844ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 053642cb910433e7124054abba29b910
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c8c785453c7b2d43908c1ecf749656e, type: 3}
+Assets:
+- Assets/Resources/Prefabs/Maps/Cube 2.prefab
+Dependencies:
+- F:/Project/MyProjects/VRBase/VRBase/Assets/StreamingAssets/materials/new material1.assetbundle

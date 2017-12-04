@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3804552598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d75f30d22dd8ff02986596562444f58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Map/MapData/Map_tttttttttt/LightMap/LightMap_Map_tttttttttt.txt
+Dependencies: []

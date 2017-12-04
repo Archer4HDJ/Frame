@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3344958790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b2e9824a65c6e5253c3313932fb367f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e179b7a2852748740644c519e8c5f6e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c8c785453c7b2d43908c1ecf749656e, type: 3}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Maps/Sphere.prefab
+Dependencies:
+- F:/Project/MyProjects/VRBase/VRBase/Assets/StreamingAssets/materials/new material1.assetbundle
+- F:/Project/MyProjects/VRBase/VRBase/Assets/StreamingAssets/materials/new material2.assetbundle

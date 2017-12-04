@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2848080370
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08c02819a0c85d3f934db444834bcbd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d86903def7be9af90c14c5cbc66f134
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 33d9c950b5475f247962c237eb41abf9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Others/AssetsSort/LayersTagsData.asset
+Dependencies: []

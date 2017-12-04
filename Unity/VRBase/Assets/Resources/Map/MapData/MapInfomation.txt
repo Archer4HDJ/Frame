@@ -1,0 +1,1 @@
+[{"id":0,"mapFileName":"Map_ssssss","isCreateLightMap":true,"lightMapSize":1024,"mapLightMap":"LightMap_Map_ssssss","mapColliderInfo":""},{"id":1,"mapFileName":"Map_tttttttttt","isCreateLightMap":true,"lightMapSize":1024,"mapLightMap":"LightMap_Map_tttttttttt","mapColliderInfo":""}]

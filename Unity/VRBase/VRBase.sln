@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBase", "VRBase.csproj", "{B52704FE-7E59-11DA-E236-432AD79DCEE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRBase.Editor", "VRBase.Editor.csproj", "{0BF35E93-A8C7-91E5-1966-6857478812C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52704FE-7E59-11DA-E236-432AD79DCEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52704FE-7E59-11DA-E236-432AD79DCEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52704FE-7E59-11DA-E236-432AD79DCEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52704FE-7E59-11DA-E236-432AD79DCEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF35E93-A8C7-91E5-1966-6857478812C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF35E93-A8C7-91E5-1966-6857478812C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF35E93-A8C7-91E5-1966-6857478812C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF35E93-A8C7-91E5-1966-6857478812C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

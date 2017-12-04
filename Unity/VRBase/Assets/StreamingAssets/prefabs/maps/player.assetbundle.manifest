@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1760982294
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15e2cb3651dce8d9aeca821ecc85c7e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 041804a607974adf47bc531872040e78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce7a80d520cacc042b5fe14f373d8173, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ad66885d36c89348988641632aa7d87, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a37f1e638533a54a86861f2fb735290, type: 3}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Maps/Player.prefab
+Dependencies: []

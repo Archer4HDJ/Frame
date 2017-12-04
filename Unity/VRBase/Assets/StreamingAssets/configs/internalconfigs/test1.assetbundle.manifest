@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2895599892
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1e650e0c2c403cf77df2293df808dd9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Configs/InternalConfigs/test1.txt
+Dependencies: []

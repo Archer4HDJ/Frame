@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4102860354
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b0c7e3cd3b389c59fe2e14a4f923515
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Audios/interaction_hatch_close.wav
+Dependencies: []

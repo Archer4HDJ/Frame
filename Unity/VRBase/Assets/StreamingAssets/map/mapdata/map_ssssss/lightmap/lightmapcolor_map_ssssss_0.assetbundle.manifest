@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2220539031
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f0b84f757dc86f141fbf75c407d40b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4cd0a5558493b0679e071c141fc729a3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Map/MapData/Map_ssssss/LightMap/LightMapColor_Map_ssssss_0.exr
+Dependencies: []

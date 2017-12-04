@@ -1,0 +1,1 @@
+[{"name":"aaa","typeName":"System.String","valueType":1,"value":"[\"aasdsa\",\"asd\",\"asd\",\"sad\"]"}]

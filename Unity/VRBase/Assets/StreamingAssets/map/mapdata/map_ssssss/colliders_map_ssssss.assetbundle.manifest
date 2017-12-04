@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2915983733
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f7d844188514618d734bdf6d92d6d29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c398969b14d61b98b5d41e9e8062c5e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Map/MapData/Map_ssssss/Colliders_Map_ssssss.prefab
+Dependencies: []

@@ -1,0 +1,1 @@
+{"gameName":"Gravity Twist Controller 2.3","gameVersion":"1.0","assetBundleVersion":0,"packageOnePaths":[],"preLoadResPaths":[]}

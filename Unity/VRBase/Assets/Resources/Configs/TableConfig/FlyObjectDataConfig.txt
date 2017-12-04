@@ -1,0 +1,7 @@
+﻿配置描述									
+int	string	string	string	string	bool	string	string	string	string
+id	名字	技能备注	飞行物飞行轨迹	技能发动属性效果(魔力生命等)	命中时飞行物是否消失	命中范围及参数(Json)	命中时特效名字	飞行时声音(碰撞)	飞行物预制名
+id	name	describe	skillConsumption	skillPropertyChange	isDisappearWhenHit	hitRange	hitFX	flySFX	flyprefabName
+0			{ "type": "弧线形","参数": "20"}	{ "magic": "10%","life": "20"."attack":"150%"}	TRUE	{"type": "sphere", "radius": 2}			fly_0
+1	tttt15速度5是5说的1								
+2	pppp								

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3790177777
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9708b0413e5afeb34a11767d6aa4e499
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 32a31884022770668140c4ee94dc0ded
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/Maps/Capsule 2123.prefab
+Dependencies:
+- F:/Project/MyProjects/VRBase/VRBase/Assets/StreamingAssets/materials/new material1.assetbundle

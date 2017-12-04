@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1625318440
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60e8471f893967611237195fa9e93528
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Map/MapData/Map_ssssss/Map_ssssss.txt
+Dependencies: []

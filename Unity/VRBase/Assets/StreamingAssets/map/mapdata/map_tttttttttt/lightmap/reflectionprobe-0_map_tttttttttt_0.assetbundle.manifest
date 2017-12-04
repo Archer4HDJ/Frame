@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2259558351
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3730678b6ecc7cc197bbe9ea4b3d06d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e2a0255c5b957f5dc0ab91e740ab860
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Map/MapData/Map_tttttttttt/LightMap/ReflectionProbe-0_Map_tttttttttt_0.exr
+Dependencies: []
