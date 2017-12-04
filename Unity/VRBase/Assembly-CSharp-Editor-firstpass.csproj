@@ -7,6 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
     <ProjectGuid>{7BAC08B1-6367-2D76-F9EF-28045B53C6E5}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
